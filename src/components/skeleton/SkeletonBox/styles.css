@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: "Roboto", sans-serif;
+}
+
+.user-container {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+
+.image {
+  border-radius: 50%;
+}
+
+.content {
+  margin: 0 20px;
+}
+
+.name {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.country {
+  font-weight: 300;
+  font-size: 14px;
+  margin-top: 2px;
+  color: #a0a0a0;
+}
+
+.skeleton {
+  position: relative;
+  overflow: hidden;
+}
+
+.skeleton-card {
+  display: flex;
+  margin: 20px;
+}
+
+.skeleton-avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: rgba(8, 40, 154, 0.1);
+}
+
+.skeleton-content-container {
+  display: flex;
+  width: 20%;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.skeleton-name {
+  width: 100%;
+  height: 25px;
+  border-radius: 25px;
+  background-color: rgba(8, 40, 154, 0.1);
+  margin: 0 auto;
+  width: 85%;
+}
+
+.skeleton-country {
+  width: 100%;
+  height: 15px;
+  border-radius: 25px;
+  background-color: rgba(8, 40, 154, 0.1);
+  margin: 0 auto;
+  width: 85%;
+}
+
+.shimmer-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20%;
+  height: 100%;
+  animation: loading 2s infinite;
+}
+
+.shimmer {
+  width: 50%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.2);
+  transform: skewX(-20deg);
+  box-shadow: 0 0 30px 30px rgba(255, 255, 255, 0.2);
+}
+
+@keyframes loading {
+  0% {
+    transform: translateX(-150%);
+  }
+
+  50% {
+    transform: translateX(-60%);
+  }
+
+  100% {
+    transform: translateX(150%);
+  }
+}

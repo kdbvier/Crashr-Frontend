@@ -1,0 +1,47 @@
+export const NEW_COLLETIONS_DATA = [
+    {
+        id: "848838af0c3ab2e3027d420e320c90eb217f25b8b097efb4378e90f5",
+        name: "Bombers",
+        image: "https://storage.googleapis.com/jpeg-optim-files/4bcf2e14-20c0-4e6f-a870-5c9afd87dd67"
+    },
+    {
+        id: "fca746f58adf9f3da13b7227e5e2c6052f376447473f4d49f8004195",
+        name: "Citizens of The Ape Society - COTAS",
+        image: "https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_144/q_auto:best/v1680268537/collections/hero_image/98353473-86d1-4757-85bb-663d54e68323?_a=ATCqVca0.webp 144w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_288/q_auto:best/v1680268537/collections/hero_image/98353473-86d1-4757-85bb-663d54e68323?_a=ATCqVca0.webp 288w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_432/q_auto:best/v1680268537/collections/hero_image/98353473-86d1-4757-85bb-663d54e68323?_a=ATCqVca0.webp 432w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_576/q_auto:best/v1680268537/collections/hero_image/98353473-86d1-4757-85bb-663d54e68323?_a=ATCqVca0.webp 576w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_864/q_auto:best/v1680268537/collections/hero_image/98353473-86d1-4757-85bb-663d54e68323?_a=ATCqVca0.webp 864w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_1440/q_auto:best/v1680268537/collections/hero_image/98353473-86d1-4757-85bb-663d54e68323?_a=ATCqVca0.webp 1440w"
+    },
+    {
+        id: "b00041d7dc086d33e0f7777c4fccaf3ef06720543d4ff4e750d8f123",
+        name: "Clumsy Valley",
+        image: "https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_144/q_auto:best/v1678459027/collections/hero_image/7ae09fab-8622-4a29-8e05-9a61e4061dd8?_a=ATCqVca0.webp 144w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_288/q_auto:best/v1678459027/collections/hero_image/7ae09fab-8622-4a29-8e05-9a61e4061dd8?_a=ATCqVca0.webp 288w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_432/q_auto:best/v1678459027/collections/hero_image/7ae09fab-8622-4a29-8e05-9a61e4061dd8?_a=ATCqVca0.webp 432w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_576/q_auto:best/v1678459027/collections/hero_image/7ae09fab-8622-4a29-8e05-9a61e4061dd8?_a=ATCqVca0.webp 576w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_864/q_auto:best/v1678459027/collections/hero_image/7ae09fab-8622-4a29-8e05-9a61e4061dd8?_a=ATCqVca0.webp 864w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_1440/q_auto:best/v1678459027/collections/hero_image/7ae09fab-8622-4a29-8e05-9a61e4061dd8?_a=ATCqVca0.webp 1440w"
+    },
+    {
+        id: "22b38c9d58710cdddf0205731dc67c916f6737e5e8f99a90bd9213ee",
+        name: "ADAPunks",
+        image: "https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_144/q_auto:best/v1678458897/collections/hero_image/adapunksdev?_a=ATCqVca0.webp 144w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_288/q_auto:best/v1678458897/collections/hero_image/adapunksdev?_a=ATCqVca0.webp 288w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_432/q_auto:best/v1678458897/collections/hero_image/adapunksdev?_a=ATCqVca0.webp 432w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_576/q_auto:best/v1678458897/collections/hero_image/adapunksdev?_a=ATCqVca0.webp 576w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_864/q_auto:best/v1678458897/collections/hero_image/adapunksdev?_a=ATCqVca0.webp 864w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_1440/q_auto:best/v1678458897/collections/hero_image/adapunksdev?_a=ATCqVca0.webp 1440w"
+    },
+    {
+        id: "b1814c6d3b0f7a42c9ee990c06c9d504a42bb22bf0e34e7908ae21b2",
+        name: "Yummi Universe - Naru (main collection)",
+        image: "https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_144/q_auto:best/v1678459985/collections/hero_image/8049d274-ff59-4ddb-9bc0-4f6adfd4e61e?_a=ATCqVca0.webp 144w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_288/q_auto:best/v1678459985/collections/hero_image/8049d274-ff59-4ddb-9bc0-4f6adfd4e61e?_a=ATCqVca0.webp 288w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_432/q_auto:best/v1678459985/collections/hero_image/8049d274-ff59-4ddb-9bc0-4f6adfd4e61e?_a=ATCqVca0.webp 432w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_576/q_auto:best/v1678459985/collections/hero_image/8049d274-ff59-4ddb-9bc0-4f6adfd4e61e?_a=ATCqVca0.webp 576w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_864/q_auto:best/v1678459985/collections/hero_image/8049d274-ff59-4ddb-9bc0-4f6adfd4e61e?_a=ATCqVca0.webp 864w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_1440/q_auto:best/v1678459985/collections/hero_image/8049d274-ff59-4ddb-9bc0-4f6adfd4e61e?_a=ATCqVca0.webp 1440w"
+    },
+    {
+        id: "11ebbfbfd62985cbae7330b95488b9dcf17ecb5e728442031362ad81",
+        name: "Hungry Cows - by MuesliSwap",
+        image: "https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_144/q_auto:best/v1678456482/collections/hero_image/cee37402-33c3-4061-b224-367438b242ee?_a=ATCqVca0.webp 144w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_288/q_auto:best/v1678456482/collections/hero_image/cee37402-33c3-4061-b224-367438b242ee?_a=ATCqVca0.webp 288w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_432/q_auto:best/v1678456482/collections/hero_image/cee37402-33c3-4061-b224-367438b242ee?_a=ATCqVca0.webp 432w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_576/q_auto:best/v1678456482/collections/hero_image/cee37402-33c3-4061-b224-367438b242ee?_a=ATCqVca0.webp 576w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_864/q_auto:best/v1678456482/collections/hero_image/cee37402-33c3-4061-b224-367438b242ee?_a=ATCqVca0.webp 864w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_1440/q_auto:best/v1678456482/collections/hero_image/cee37402-33c3-4061-b224-367438b242ee?_a=ATCqVca0.webp 1440w"
+    },
+    {
+        id: "aa19d5f5ae9b6c93c8e278851194553ddd4789d77f86d3ad2f7480d8",
+        name: "Cardano Crocs Club",
+        image: "https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_144/q_auto:best/v1678458637/collections/hero_image/cardanocrocsclub?_a=ATCqVca0.webp 144w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_288/q_auto:best/v1678458637/collections/hero_image/cardanocrocsclub?_a=ATCqVca0.webp 288w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_432/q_auto:best/v1678458637/collections/hero_image/cardanocrocsclub?_a=ATCqVca0.webp 432w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_576/q_auto:best/v1678458637/collections/hero_image/cardanocrocsclub?_a=ATCqVca0.webp 576w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_864/q_auto:best/v1678458637/collections/hero_image/cardanocrocsclub?_a=ATCqVca0.webp 864w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_1440/q_auto:best/v1678458637/collections/hero_image/cardanocrocsclub?_a=ATCqVca0.webp 1440w"
+    },
+    {
+        id: "40fa2aa67258b4ce7b5782f74831d46a84c59a0ff0c28262fab21728",
+        name: "Clay Nation",
+        image: "https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_144/q_auto:best/v1678457870/collections/hero_image/a1ee80d0-64b4-476b-b659-384bc9fc4b19?_a=ATCqVca0.webp 144w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_288/q_auto:best/v1678457870/collections/hero_image/a1ee80d0-64b4-476b-b659-384bc9fc4b19?_a=ATCqVca0.webp 288w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_432/q_auto:best/v1678457870/collections/hero_image/a1ee80d0-64b4-476b-b659-384bc9fc4b19?_a=ATCqVca0.webp 432w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_576/q_auto:best/v1678457870/collections/hero_image/a1ee80d0-64b4-476b-b659-384bc9fc4b19?_a=ATCqVca0.webp 576w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_864/q_auto:best/v1678457870/collections/hero_image/a1ee80d0-64b4-476b-b659-384bc9fc4b19?_a=ATCqVca0.webp 864w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_1440/q_auto:best/v1678457870/collections/hero_image/a1ee80d0-64b4-476b-b659-384bc9fc4b19?_a=ATCqVca0.webp 1440w"
+    },
+    {
+        id: "dac355946b4317530d9ec0cb142c63a4b624610786c2a32137d78e25",
+        name: "The Ape Society",
+        image: "https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_144/q_auto:best/v1678458633/collections/hero_image/QmZjgJUXDNvDwpL61KpU8XpTkw5F3SmYHz1SQCSnGSAsxp?_a=ATCqVca0.webp 144w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_288/q_auto:best/v1678458633/collections/hero_image/QmZjgJUXDNvDwpL61KpU8XpTkw5F3SmYHz1SQCSnGSAsxp?_a=ATCqVca0.webp 288w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_432/q_auto:best/v1678458633/collections/hero_image/QmZjgJUXDNvDwpL61KpU8XpTkw5F3SmYHz1SQCSnGSAsxp?_a=ATCqVca0.webp 432w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_576/q_auto:best/v1678458633/collections/hero_image/QmZjgJUXDNvDwpL61KpU8XpTkw5F3SmYHz1SQCSnGSAsxp?_a=ATCqVca0.webp 576w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_864/q_auto:best/v1678458633/collections/hero_image/QmZjgJUXDNvDwpL61KpU8XpTkw5F3SmYHz1SQCSnGSAsxp?_a=ATCqVca0.webp 864w, https://res.cloudinary.com/dkjdnfj7u/image/upload/c_limit,w_1440/q_auto:best/v1678458633/collections/hero_image/QmZjgJUXDNvDwpL61KpU8XpTkw5F3SmYHz1SQCSnGSAsxp?_a=ATCqVca0.webp 1440w"
+    },
+]
